@@ -1,2 +1,2 @@
 # admin-dahsboard-theodinproject
-In this project I've used differend technologies of CSS like flexbox and grid.
+This project shows what I've learned about grid in Intermediate HTML and CSS of The Odin Project.
